@@ -16,7 +16,7 @@ SECRET_KEY = 'django-insecure-px*oh9wu^kf@ad1^zjt5fir+m2jvtbgs@l4)8d4680wc0_pn4j
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mystickcassandra.onrender.com']
 
 
 # Application definition
